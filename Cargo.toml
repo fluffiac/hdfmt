@@ -1,0 +1,6 @@
+[workspace]
+members = [
+    "hdfmt",
+    "readout",
+    "readout_derive",
+]
